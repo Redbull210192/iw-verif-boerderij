@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boerderij-de-vrije-geest.immerweb.com/sitemap.xml
